@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[Level addEnemy:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentLevel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Hud setBonusLabelPower:life:numbomb:speed:]:Hud.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "speedLabel.tag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Player init]:Player.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent">
+            </PersistentString>
+            <PersistentString
+               value = "map">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level tick:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "node.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level ai:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "isPause">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Map init]:Map.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentTileSet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Map generateMap:numEnemy:]:Map.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[enemy valueForKey:@&quot;x&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level goFormX:fromY:toX:toY:]:Level.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "allowDiags">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level initLevelWithFilename:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "isPuzzle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Character initOfType:]:Character.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mirrored">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Player stepAI]:Player.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "direction">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level isBonus:isTileCoord:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[map tileArrayAtRow:tileCoord.x col:tileCoord.y]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level loadMapObjects]:Level.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "allowDiags">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Level replayClick:]:Level.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentLevel">
+            </PersistentString>
+            <PersistentString
+               value = "isPuzzle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
